@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Animal farm",
+        "author": "George Orwell",
+        "published_year": 1949,
+        "publisher": "Harcourt, Brace & Company",
+        "genre": "roman",
+        "price": "24935",
+        "year": "1886"
+    },
+    {
+        "id": 2,
+        "name": "The Lord of the Rings",
+        "author": "Austen",
+        "published_year": 1954,
+        "publisher": "George Allen & Unwin",
+        "genre": "badiy",
+        "price": "12000",
+        "year": "1550"
+    },
+    {
+        "id": 3,
+        "name": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "published_year": 1813,
+        "publisher": "T. Egerton",
+        "genre": "badiy",
+        "price": "2000",
+        "year": "1998"
+    },
+    {
+        "id": 4,
+        "name": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "published_year": 1951,
+        "publisher": "Little, Brown and Company",
+        "genre": "roman",
+        "price": "5000",
+        "year": "2012"
+    },
+    {
+        "id": 5,
+        "name": "The Odyssey",
+        "author": "Homer",
+        "published_year": "8th century BCE",
+        "publisher": "N/A",
+        "genre": "roman",
+        "price": "867",
+        "year": "2010"
+    },
+    {
+        "id": 6,
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "published_year": 1925,
+        "publisher": "Charles Scribner's Sons",
+        "genre": "biznes",
+        "price": "3565",
+        "year": "1977"
+    },
+    {
+        "id": 7,
+        "name": "Frankenstein",
+        "author": "Mary Shelley",
+        "published_year": 1818,
+        "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+        "genre": "badiy",
+        "price": "9782",
+        "year": "1892"
+    },
+    {
+        "id": 8,
+        "name": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "published_year": 2008,
+        "publisher": "Scholastic Press",
+        "genre": "roman",
+        "price": "211",
+        "year": "1990"
+    },
+    {
+        "id": 9,
+        "name": "The Road",
+        "author": "biznes",
+        "published_year": 2006,
+        "publisher": "Knopf",
+        "genre": "Post-Apocalyptic Fiction",
+        "price": "87899",
+        "year": "1980"
+    },
+    {
+        "id": 10,
+        "name": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "published_year": 1937,
+        "publisher": "George Allen & Unwin",
+        "genre": "biznes",
+        "price": "3232",
+        "year": "1450"
+    }
+]

@@ -1,0 +1,28 @@
+
+
+//======GET======= 
+
+/books
+/books/7
+/books?price=30
+/books?start=50&end=200
+/books?author=David
+/books?author=David&year=2019
+
+
+
+//=======POST======
+
+
+/books {name , price ,genre ,author ,year ,page}
+
+
+
+//=======PUT======
+
+
+/books/:id {name , price ,genre ,author year ,page}
+
+//=======DELETE======
+
+/books/:id
